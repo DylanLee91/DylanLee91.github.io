@@ -23,8 +23,8 @@ https://app.creately.com/diagram/cxfJNlVuXj7/view
 
 
 ### Media
-Wizards of the Coast for fair use of Dungeons and Dragons copyrighted material
-
+Wizards of the Coast for fair use of copyrighted Dungeons and Dragons material
+Background tiling Redox 01 by Hendrik Lammers (https://www.hendriklammers.com/)
 ### Acknowledgements
 
 
