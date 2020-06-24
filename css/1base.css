@@ -1,4 +1,5 @@
 /* base css styling for handphones */
-body {
+.tile {
     background-image: url(../image/redox_01.png);
+    padding-top: 56px;
   }
