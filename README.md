@@ -17,6 +17,7 @@ Bottom border
 Navbar shadow?
 Footer:
 Link section 
+CTA button with link to 
 Bottom bar with copyright disclaimers
 Events page:
 Carousel with clickable links
