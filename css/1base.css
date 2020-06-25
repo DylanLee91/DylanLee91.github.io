@@ -1,5 +1,22 @@
 /* base css styling for handphones */
+body { 
+  padding-top: 56px; 
+}
 .tile {
     background-image: url(../image/redox_01.png);
-    padding-top: 56px;
+    }
+
+.bg-image-full {
+  background: no-repeat center bottom scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height:550px;
+  padding-top: 100px;
+}
+.overlay-inner {
+  background-color: rgba(0, 0, 0, 0.7);
+   height: 350px;
   }
+

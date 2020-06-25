@@ -10,9 +10,22 @@ https://app.creately.com/diagram/cxfJNlVuXj7/view
 ### Existing Features
 
 ### Features Left to Implement
+Navbar:
+Discord Button
+Website Logo
+Bottom border
+Navbar shadow?
+Footer:
+Link section 
+Bottom bar with copyright disclaimers
+Events page:
+Carousel with clickable links
+Disqus plugin
+Resources page:
+Various sections with anchors
 
 ## Technologies Used
-
+Bootstrap 4
 ## Testing
 
 ## Deployment
