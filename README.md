@@ -10,6 +10,39 @@ https://app.creately.com/diagram/cxfJNlVuXj7/view
 ### Existing Features
 
 ### Features Left to Implement
+Important core website functions
+•	Fully functional navbar
+o	Change navbar functionality of home button by page:
+	On index page, just flow to anchor
+	On other pages, hard link to index
+o	Add social media buttons
+•	Fully functional footer
+•	Embedded youtube video
+•	Recommendations
+
+Technical design flourishes
+•	Properly functional carousel
+•	Nested drop downs in the nav bar
+o	https://getbootstrap.com/docs/4.0/components/navbar/
+o	https://getbootstrap.com/docs/4.0/components/dropdowns/
+•	Google sheet embedded
+•	Form fillout with accompanying javascript
+•	Have Navbar light up with appropriate section when on that page
+Non technical design flourishes
+•	Pick a nicer font family
+•	Pick a simple text based logo
+•	Incorporate some of the dnd logos
+•	Extraneous textual detail in the campaign description
+•	Extraneous textual detail in the rules description
+•	Text detail in the character descriptions
+•	Fancy logos for the website
+•	Fancy graphics for the characters (Use roll 20 tokens pictures at the right ratio?)
+Useful links
+•	https://getbootstrap.com/docs/3.4/css/
+•	https://getbootstrap.com/docs/4.0/utilities/spacing/
+
+
+
 Navbar:
 Discord Button
 Website Logo
