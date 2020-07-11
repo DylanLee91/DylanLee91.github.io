@@ -49,3 +49,7 @@ body {
 .bg-black {
   background-color:black 
 }
+.footer-list {
+  list-style: none;
+  padding-left: 0;
+}
