@@ -1,0 +1,103 @@
+/* base css styling for handphones */
+/* Custom font */
+@font-face {
+  font-family: 'arkhip';
+  src: url('../webkit/arkhip_font-webfont.woff2') format('woff2'),
+       url('../webkit/arkhip_font-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+/* Body styling */
+body { 
+  padding-top: 56px; 
+  font-family: Roboto, Montserrat, Arial;
+}
+.tile {
+  background-image: url(../image/background/redox_01.png);
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
+}
+body nav{
+  font-family: 'arkhip', Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
+}
+body footer{
+  font-family: 'arkhip', Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
+}
+.arkhipfont {
+  font-family: 'arkhip', Raleway, Roboto, Arial, sans-serif;
+}
+.bg-image-full {
+  background: no-repeat center bottom scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height:550px;
+  padding-top: 100px;
+}
+.overlay-inner {
+  background-color: rgba(0, 0, 0, 0.7);
+   height: 350px;
+}
+.shadow {
+  -webkit-box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.33);
+  -moz-box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.33);
+  box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.33);
+}
+/* Index page card styling */
+.card-size-set {
+  object-fit:cover;
+  height: 225px;
+  width: auto;
+  display: block;
+}
+/* Images in spans */
+.image-right {
+  float: right;
+  padding: 10px 0px 10px 10px;
+}
+.image-left {
+  float: left;
+  padding: 0px 10px 10px 10px;
+}
+/* Carousel styling */
+.carousel-responsive { 
+  display:none;
+}
+.carousel-display{
+  max-height: 300px;
+  width: 100%;
+  object-fit:cover;
+}
+/* Navbar styling */
+.wizard {
+  height:30px;
+}
+@media screen and (max-width:768px) {
+  .wizard{
+    display:none;
+  }
+}
+.brand-font {
+  font-family:arkhip, roboto;
+  font-size:28px;
+}
+/* Footer styling */
+.disclaimer-text {
+  font-size:12px;
+}
+.bg-black {
+  background-color:black 
+}
+.footer-list {
+  list-style: none;
+  padding-left: 0;
+}
+.dancingwizard {
+  height:40px;
+}
+.dancingwizard:hover {
+  transform: scaleX(-1);
+}
