@@ -1,8 +1,11 @@
-# Dungeons and Dragons campaign website by Lee Soon Yoong
-User Centric Frontend Development project
+# Morgrave Archeology website by Dylan Lee Soon Yoong
+User Centric Frontend Development Project
+The purpose of this project was to create a lightweight, fully functional community web page for a board gaming group interested in Dungeons and Dragons.
+## Website Hosting
+The website can be assessed on [Github pages](https://dylanlee91.github.io/)
 
 ## UX
-My goal was to create a community webpage for a local board gaming group. The website was aimed at several types of visitors:
+My goal was to create a community webpage for a local board gaming group. The page was designed lightweight to encourage mobile usage and relied minimally on high resolution imagery for decoration. The website was aimed at several types of visitors:
 **New players**
 1. Provide information on how to play the game
 2. Provide information on the story of both the original setting and the community's interaction with the setting
@@ -21,8 +24,8 @@ An initial planning mindmap was [created](https://app.creately.com/diagram/cxfJN
 
 ### Existing Features
 Given that the website is primarily created using bootstrap, the basic features of bootstrap are present, including
-mobile responsiveness on many elements, flexbox rows and columns and so on.
-1. Nav
+mobile responsiveness on many elements, flexbox rows and columns and so on. Bootstrap's button implementation was used, 
+as well as navbar dropdown elements
 
 ### Features Left to Implement
 Aside from a raft of content that is yet to be added, several design and technical aspects remain yet to be implemented.
@@ -31,7 +34,7 @@ Aside from a raft of content that is yet to be added, several design and technic
 3. Embedded signup sheets either using google forms or javascript
 4. Implementing social media icons and usage of icons on webpage in general
 5. A cooperative carousel that is mobile responsive, alternatively a replacement element on mobile for the carousel
-6. Animation in some transitions
+6. Animation in some transitions such as quick fade in and fade outs. I'd like to animated the wizard upon moseouver.
 
 A sample of unimplemented content
 * Campaign Page Content
@@ -60,6 +63,11 @@ To test mobile functionality, load times on mobiles were testes as well as objec
 
 ## Deployment
 The website is currently deployed on [Github pages](https://dylanlee91.github.io/) and the repository is publicly viewable on [Github](https://github.com/DylanLee91/DylanLee91.github.io)
+
+In order to do so, the development repository was simply renamed to the repository name compatible with github.io hosting.
+
+In development, changes were all made in a local repository using VSCode, and tested with a live server extension. A dev branch was used to practise strict seperation between deployed branches and dev branches. Given the lack of need for collaboration in the solo project, changes were not pushed to the remote repository frequently. Many test folders containing templates or test features were cleaned up before merge with the main branch. In the future, these test pages will be reintroduced on the dev branch and not merged during deployment.
+
 
 ## Credits
 ### Content
