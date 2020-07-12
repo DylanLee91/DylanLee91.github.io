@@ -49,7 +49,7 @@ body footer{
 /* Index page card styling */
 .card-size-set {
   height: 225px;
-  width: 100%;
+  width: auto;
   display: block;
 }
 /* Images in spans */
@@ -72,7 +72,12 @@ body footer{
 }
 /* Navbar styling */
 .wizard {
-  height:25px;
+  height:30px;
+}
+@media screen and (max-width:768px) {
+  .wizard{
+    display:none;
+  }
 }
 .brand-font {
   font-family:arkhip, roboto;
@@ -91,4 +96,7 @@ body footer{
 }
 .dancingwizard {
   height:40px;
+}
+.dancingwizard:hover {
+  transform: scaleX(-1);
 }

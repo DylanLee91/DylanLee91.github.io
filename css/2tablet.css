@@ -1,5 +1,5 @@
 /* base css styling for tablets */
-@media (min-width: 768px){
+@media screen and (min-width: 768px){
     /* Carousel controls */
     .carousel-responsive {
         display:block;
