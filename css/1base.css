@@ -53,7 +53,7 @@ body footer{
   width: auto;
   display: block;
 }
-/* Images in spans */
+/* Images styling */
 .image-right {
   float: right;
   padding: 10px 0px 10px 10px;
@@ -61,6 +61,13 @@ body footer{
 .image-left {
   float: left;
   padding: 0px 10px 10px 10px;
+}
+.splash-image {
+  object-fit:cover;
+  height: auto;
+  min-height:250px;
+  width: 100%;
+  display: block;
 }
 /* Carousel styling */
 .carousel-responsive { 

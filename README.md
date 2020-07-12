@@ -74,6 +74,7 @@ In development, changes were all made in a local repository using VSCode, and te
 *Some text was taken from the [wikipedia article on Eberron](https://en.wikipedia.org/wiki/Eberron)
 *The website primarily refers to Dungeons and Dragons, the intellectual property of [Wizards of the Coast](https://dnd.wizards.com/)
 *Ideas on how to organise pages were taken from [templates on Getbootstrap](https://getbootstrap.com/docs/4.0/examples/) and [templates on startbootstrap](https://startbootstrap.com/)
+*Text on the campaign page was taken from [Convergence Manifesto](https://acrosseberron.com/2019/10/07/convergence-manifesto-the-complete-first-season/) and [Oracle of War](https://dndadventurersleague.org/storyline-seasons/oracle-of-war/)
 
 ### Media
 *The thumbnails were obtained from various places and are provided by [Wizards of the Coast](https://dnd.wizards.com/)
