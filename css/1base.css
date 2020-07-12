@@ -48,6 +48,7 @@ body footer{
 }
 /* Index page card styling */
 .card-size-set {
+  object-fit:cover;
   height: 225px;
   width: auto;
   display: block;
