@@ -42,37 +42,35 @@ Useful links
 •	https://getbootstrap.com/docs/4.0/utilities/spacing/
 
 
-
-Navbar:
-Discord Button
-Website Logo
-Bottom border
-Navbar shadow?
-Footer:
-Link section 
-CTA button with link to 
-Bottom bar with copyright disclaimers
-Events page:
-Carousel with clickable links
-Disqus plugin
-Resources page:
-Various sections with anchors
-
 ## Technologies Used
-Bootstrap 4
+The webpage is almost entirely written with the help of Bootstrap 4 CSS and it's supporting jquery packages.
+To assemble the arkhip font package, the font .ttf file was passed to https://www.fontsquirrel.com/tools/webfont-generator to generate the webkit for easier implementation.
 ## Testing
 
 ## Deployment
+The website is currently deployed on [Github pages](https://dylanlee91.github.io/) and the repository is publicly viewable on [Github](https://github.com/DylanLee91/DylanLee91.github.io)
 
 ## Credits
-
 ### Content
-
+*Some text was taken from the [wikipedia article on Eberron](https://en.wikipedia.org/wiki/Eberron)
+*The website primarily refers to Dungeons and Dragons, the intellectual property of [Wizards of the Coast](https://dnd.wizards.com/)
+*Ideas on how to organise pages were taken from [templates on Getbootstrap](https://getbootstrap.com/docs/4.0/examples/) and [templates on startbootstrap](https://startbootstrap.com/)
 
 ### Media
-Wizards of the Coast for fair use of copyrighted Dungeons and Dragons material
-Background tiling Redox 01 by Hendrik Lammers (https://www.hendriklammers.com/)
+*The thumbnails were obtained from various places and are provided by [Wizards of the Coast](https://dnd.wizards.com/)
+*The dancing wizard .gif was obtained from [DnDBeyond](http://dndbeyond.com)
+*The background tile, Redox 01, was created by [Hendrik Lammers](https://www.hendriklammers.com/)
+*The arkhip font was obtained from (https://www.1001fonts.com/arkhip-font.html)
+*A font package for Roboto and Raleway was acquired from [Google](fonts.google.com)
+*The map looking at a map was obtained from [Chris OCampo](http://chrisocampo1.blogspot.com/2010/06/more-random-stuff.html)
+*The dwarf hitting an anvil was obtained from [Denman Rooke](https://denmanrooke.com/#the-master-blacksmith)
+*The cityscape drawing was taken from [Andrei Maximov](https://www.artstation.com/andead)
+
 ### Acknowledgements
+*The creators of bootstrap without which this website would not be possible
+*Stackoverflow for keeping me sane
+*DndBeyond for giving me the rough outline of my website
+*Keith Baker for creating Eberron
 
 
 
