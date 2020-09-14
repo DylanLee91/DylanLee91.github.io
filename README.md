@@ -26,31 +26,8 @@ An initial planning mindmap was [created](https://app.creately.com/diagram/cxfJN
 Given that the website is primarily created using bootstrap, the basic features of bootstrap are present, including
 mobile responsiveness on many elements, flexbox rows and columns and so on. Bootstrap's button implementation was used, 
 as well as navbar dropdown elements
-
-### Features Left to Implement
-Aside from a raft of content that is yet to be added, several design and technical aspects remain yet to be implemented.
-1. Embedded iframes for youtube videos and google maps
-2. Javascript implementation of appearing and disappearing elements on click
-3. Embedded signup sheets either using google forms or javascript
-4. Implementing social media icons and usage of icons on webpage in general
-5. A cooperative carousel that is mobile responsive, alternatively a replacement element on mobile for the carousel
-6. Animation in some transitions such as quick fade in and fade outs. I'd like to animated the wizard upon moseouver.
-
-A sample of unimplemented content
-* Campaign Page Content
-    * [Convergence Manifesto](https://acrosseberron.com/2019/10/07/convergence-manifesto-the-complete-first-season/)
-    * [Oracle of War](https://dndadventurersleague.org/storyline-seasons/oracle-of-war/)
-    * Dates and times, real or fictional
-* New player resources
-    * https://www.dndbeyond.com/essentials
-    * https://dnd.wizards.com/basics-play
-* Tools
-    * https://www.dmsguild.com/product/208178/DD-Adventurers-League-Players-Pack
-    * https://www.dndbeyond.com/characters/builder#/
-    * http://rolladvantage.com/tokenstamp/
-* Helpful Youtube Channels
-    * Taking20
-    * WebDM
+##
+I deleted a big bunc of stuff here
 ## Technologies Used
 The webpage is almost entirely written with the help of Bootstrap 4 CSS and it's supporting jquery packages.
 To assemble the arkhip font package, the font .ttf file was passed to https://www.fontsquirrel.com/tools/webfont-generator to generate the webkit for easier implementation.
