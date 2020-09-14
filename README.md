@@ -4,6 +4,9 @@ The purpose of this project was to create a lightweight, fully functional commun
 ## Website Hosting
 The website can be assessed on [Github pages](https://dylanlee91.github.io/)
 
+# Making some more test changes
+
+
 ## UX
 My goal was to create a community webpage for a local board gaming group. The page was designed lightweight to encourage mobile usage and relied minimally on high resolution imagery for decoration. The website was aimed at several types of visitors:
 **New players**
