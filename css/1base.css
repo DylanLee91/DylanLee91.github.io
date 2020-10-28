@@ -14,19 +14,22 @@ body {
   font-family: Roboto, Montserrat, Arial;
 }
 .tile {
-  background-image: url(../image/background/redox_01.png);
+  background-image: url(../image/background/redox_01_invert.png);
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
 }
 body nav{
-  font-family: 'arkhip', Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
+  font-family: Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
 }
 body footer{
-  font-family: 'arkhip', Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
+  font-family: Raleway, 'Roboto Slab', Roboto, Arial, sans-serif;
 }
 .arkhipfont {
-  font-family: 'arkhip', Raleway, Roboto, Arial, sans-serif;
+  font-family: Raleway, Roboto, Arial, sans-serif;
+}
+.ralewayfont {
+  font-family: Raleway, Roboto, Arial, sans-serif;
 }
 .bg-image-full {
   background: no-repeat center bottom scroll;
@@ -36,6 +39,14 @@ body footer{
   -o-background-size: cover;
   height:550px;
   padding-top: 100px;
+}
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(../image/background/blackboard.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .overlay-inner {
   background-color: rgba(0, 0, 0, 0.7);
@@ -53,6 +64,7 @@ body footer{
   width: auto;
   display: block;
 }
+
 /* Images styling */
 .image-right {
   float: right;
@@ -68,6 +80,9 @@ body footer{
   min-height:250px;
   width: 100%;
   display: block;
+}
+.token {
+  max-height:300px;
 }
 /* Carousel styling */
 .carousel-responsive { 
