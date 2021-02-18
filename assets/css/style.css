@@ -413,7 +413,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -518,7 +518,11 @@ section {
 }
 
 .portfolio .portfolio-item a{
-  color:black
+  color:#c9d1d9;
+}
+
+.card-color {
+  background: #212529;
 }
 
 .portfolio #portfolio-flters {
@@ -552,13 +556,8 @@ section {
   margin-right: 0;
 }
 
-.card-color {
-  background: #f4f6fd;
-}
 
-.card {
-  border:0px;
-}
+
 
 .portfolio .portfolio-wrap {
   transition: 0.3s;
